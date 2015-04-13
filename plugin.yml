@@ -1,0 +1,15 @@
+name: Heroes
+version: 2.0
+main: me.bugsyftw.heroes.Heroes
+author: BugsyFTW
+prefix: [Heroes]
+depend: [DisguiseCraft]
+commands:
+    creategame:
+        description: Creates a game
+    addspawn:
+        description: Adds a spawn
+    rank:
+        description: Rank stuff
+    hub:
+        description: Sends you to Hub
